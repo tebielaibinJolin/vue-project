@@ -1,6 +1,7 @@
 # vue-examples
 
 This template should help get you started developing with Vue 3 in Vite.
+第一次用GitHub上传我做的项目，项目以前端开发为主，做的是选课界面，做的不好大家多多包涵
 
 ## Recommended IDE Setup
 
